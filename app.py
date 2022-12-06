@@ -13,7 +13,7 @@ def Index():
 def Summarize():
     if req.method== "POST":
         model = SimpleT5()
-        model.load_model("t5","model\Outputs-simplet5-epoch-4-train-loss-0.6386-val-loss-1.4571")
+        model.load_model("t5","model\Outputs-simplet5-epoch-4-train-loss-0.6386-val-loss-1.4571", use_gpu=True)
         data=req.form["data"]
         pred = model.predict(data)
         res = pred[0]
