@@ -16,7 +16,7 @@
 - **Model:** Best model from the Output is selected [Model](https://drive.google.com/drive/folders/1HNN9ScfgoUSAL2Dd4-pGeqkjYE9eTMQG?usp=share_link)
 
 # How to run 
-- Create environment with python 3.7 +
+- (GPU is needed)Create environment with python 3.7 +
 - Clone the reporsitory
 ```
 git clone https://github.com/Mahimajain25/News_Summarization.git
