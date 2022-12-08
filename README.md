@@ -25,10 +25,7 @@ git clone https://github.com/Mahimajain25/News_Summarization.git
 - Run app.
 ```
 python app.py
-``` 
-
-# Reference
-- A simplet5 blog : [simplet5](https://medium.com/geekculture/simplet5-train-t5-models-in-just-3-lines-of-code-by-shivanand-roy-2021-354df5ae46ba)
+```
 
 ### **Technologies used**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
